@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+/*Nav-Bar*/
+h2.my-name-top{
+    font-family: "Montserrat";
+    font-size: 30px;
+    color: #202020;
+    font-weight: bold;
+    padding-top: 0.2cm;
+}
+
+
+.bg-primary {
+    background-color: #FFDF6C!important;
+}
+
+.btn-dark{
+    background-color: #202020;
+}
+.navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+ }
+ .nav-link{
+     font-size: 17px;
+     font-family: "Montserrat";
+ }
+
+/*Jumbotron*/
+.cst-jumbo-main-msg{
+    text-align: center;
+    font-weight: 1000;
+    color: #FFFFFF;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+
+.jumbotron {
+    background: url('/images/bg_12.jpg') no-repeat center;
+    padding: 20em;
+    margin-bottom: 0rem;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  /*Card-Deck*/
+  .card-deck{
+      margin-left: 15px;
+      margin-right: 15px;
+  }
+  .cst-carddeck-head{
+      font-size: 40px;
+      font-weight: 700;
+      margin-bottom: 25px;
+      color: #202020;
+      text-transform: uppercase;
+      text-align: center;
+  }
+  .cst-carddeck-head i{
+      color: #202020;
+  }
+  p.card-text{
+      font-size: 15px;
+  }
+  h5.card-title{
+      font-size: 20px;
+  }
+
+
+
+ /*Footer*/
+ .page-footer{
+     background-color: #FFDF6C;
+ }
+ .cst-footer-icon i{
+     color: #202020
+ }
+ .footer-copyright{
+     text-align: center;
+ }
+ .footer-copyright a{
+    text-align: center;
+    color: #202020;
+}
+div h2{
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 800;
+}
+div p{
+    font-family: "Montserrat";
+    
+}
+.cst-formsubmit{
+    border-color: #202020;
+}
